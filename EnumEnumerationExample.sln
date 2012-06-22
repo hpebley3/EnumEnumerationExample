@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumEnumerationExample", "EnumEnumerationExample\EnumEnumerationExample.csproj", "{03A69B94-77FF-4E83-870E-8991FEC0C513}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8468262A-B8D6-48F6-9A3A-78774790137F}"
+	ProjectSection(SolutionItems) = preProject
+		EnumEnumerationExample.vsmdi = EnumEnumerationExample.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = EnumEnumerationExample.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03A69B94-77FF-4E83-870E-8991FEC0C513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A69B94-77FF-4E83-870E-8991FEC0C513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A69B94-77FF-4E83-870E-8991FEC0C513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A69B94-77FF-4E83-870E-8991FEC0C513}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
